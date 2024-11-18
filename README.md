@@ -29,3 +29,9 @@ Furthermore, the security member who's responsible for further authorising the v
 Moreover, the system also keeps track of time and doesn't allow further signing in of visitors after an assigned curfew.
 It also generates a list of visitors which are still on premises and not signed out after curfew for the member to follow up on to ensure efficiency of student visitors' strict policies.
 
+PROJECT TITLE: MemberForce_System
+PURPOSE OF PROJECT: CMPG223 Project 
+VERSION or DATE: 2023-08-18 
+HOW TO START THIS PROJECT: Project can be opened using Visual Studio 
+AUTHORS: RK Mtileni (38342626 - Leader), TM Hlatshwayo (38640406), A Mpitula (37460366), J Mlangeni (35171995), & P Sigama (42038758) 
+USER INSTRUCTIONS: See Description Above
